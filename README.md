@@ -1,7 +1,9 @@
-# Robô para WhatsApp Web para fins de estudo
+# WhatsApp Web Bot (server)
 
-Esse é o Back-end (server) de um robô para WhatsApp Web desenvolvido em Python que comecei a desenvolver no final de 2020 e que possui um Front-end integrado em Quasar Framework.
+> This project is for study and learning purposes and should not be used for commercial applications or that violate WhatsApp rules and guidelines.
 
-## 📃 Licença
+This is the Back-end (server) of a robot for WhatsApp Web developed in Python that I started developing in late 2020 and that has a Front-end integrated in Quasar Framework.
 
-Todos os direitos reservados para Rodrigo Vieira (rodrigo@slayer.tech)
+## 📃 License
+
+All rights reserved for Rodrigo Vieira (rodrigo@slayer.tech)
