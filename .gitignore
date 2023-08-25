@@ -1,0 +1,28 @@
+# Ignore IDEs folders...
+.idea/
+# Ignore files by extension...
+*.log
+*.pem
+
+## Global folders
+# Excluded
+**/&
+# Versus
+**/vs
+
+## Root folders
+# Metafolder (@)
+@/*
+
+# Boot
+boot/
+# Database
+database/
+# Downloads
+downloads/
+# Extensions
+extensions/
+# Tests
+tests/
+# Uploads
+uploads/
